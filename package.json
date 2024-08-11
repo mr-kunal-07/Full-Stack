@@ -2,13 +2,17 @@
   "name": "1st-full-stack-pro",
   "version": "1.0.0",
   "description": "full pro",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "JavaScript"
   ],
   "author": "Kunal Jadhav",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
