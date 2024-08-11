@@ -1,0 +1,14 @@
+{
+  "name": "1st-full-stack-pro",
+  "version": "1.0.0",
+  "description": "full pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Kunal Jadhav",
+  "license": "ISC"
+}
